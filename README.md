@@ -38,7 +38,7 @@ I focus on applying **OOP principles**, **SOLID design**, and **clean architectu
 ### 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mokhtar%20Hussein-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mokhtarhusseindev/)  
-📧 **mokhtarhusseindev@gmail.com** (optional — add if you’d like)
+📧 **mokhtar8e.eg@gmail.com** 
 
 ---
 
