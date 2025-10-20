@@ -1,3 +1,5 @@
+![Mokhtar Hussein | Full Stack .NET Developer](https://github.com/mokhtarhusseindev/mokhtarhusseindev/blob/main/mokhtar%20hussein%20portofolio.png?raw=true)
+
 # 👋 Hi, I'm Mokhtar Hussein
 
 **Full Stack .NET Developer** specializing in **Backend Development** using **ASP.NET Core**, **C#**, **SQL Server**, and **ReactJS**.  
@@ -69,3 +71,5 @@ I focus on applying **OOP principles**, **SOLID design**, and **clean architectu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtarhusseindev&layout=compact&theme=default)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mokhtarhusseindev&show_icons=true&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=mokhtarhusseindev&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
