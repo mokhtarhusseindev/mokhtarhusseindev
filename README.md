@@ -25,20 +25,38 @@ I focus on applying **OOP principles**, **SOLID design**, and **clean architectu
 
 ---
 
-### 📈 Tech Stack
+### ⚙️ Tech Stack
 
-**Backend:** ASP.NET Core, C#, ADO.NET, Entity Framework, LINQ  
-**Frontend:** ReactJS, HTML, CSS, JavaScript  
-**Database:** SQL Server, SQLite  
-**Architecture:** 3-Tier, Clean Architecture, Repository Pattern  
-**Tools:** Git, Visual Studio, Postman, Azure DevOps  
+**Backend:**  
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Database:**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Architecture & Tools:**  
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4285F4?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-007ACC?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mokhtar%20Hussein-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mokhtarhusseindev/)  
-📧 **mokhtar8e.eg@gmail.com** 
+📧 **mokhtar8e.eg@gmail.com**
 
 ---
 
