@@ -41,7 +41,8 @@ I focus on applying **OOP principles**, **SOLID design**, and **clean architectu
 
 **Database:**  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Architecture & Tools:**  
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4285F4?style=for-the-badge)
